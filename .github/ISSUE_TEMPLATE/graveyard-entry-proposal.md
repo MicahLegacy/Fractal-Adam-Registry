@@ -1,6 +1,6 @@
 ---
 name: Graveyard Entry Proposal
-about: Describe this issue template's purpose here.
+about: Propose logging a falsified / reversed / not-supported prediction
 title: Graveyard
 labels: ''
 assignees: ''
