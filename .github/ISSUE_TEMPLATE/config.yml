@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Public registries (read-only)
+    url: https://micahlegacy.github.io/Fractal-Adam-Registry/
+    about: View the Graveyard, Non-Maps Ledger, and Corrections Log.
