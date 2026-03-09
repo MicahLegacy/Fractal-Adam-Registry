@@ -1,0 +1,10 @@
+# Minimal scientific Python starter stack
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+notebook
+pyyaml
+openpyxl
+scikit-learn

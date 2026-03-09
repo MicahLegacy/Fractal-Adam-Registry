@@ -1,0 +1,15 @@
+name: fractal-adam-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - notebook
+  - pyyaml
+  - openpyxl
+  - scikit-learn
+  - pip
